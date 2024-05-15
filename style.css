@@ -1,0 +1,71 @@
+html,body{
+    margin: 0;
+    font-family: Sans-serif;
+    font-weight: 400;
+    
+}
+.image-section{
+    background-image: url(image1.png);
+    min-height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.text-section{
+    position: absolute;
+    /* background-color: gold; */
+    top: 50%;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.ptext{
+    background: #313534;
+    color: #fff;
+    padding: 20px;
+}
+.section-two{
+    padding: 40px;
+}
+#m1{
+    display: flex;
+    justify-content: center;
+}
+.image-section2{
+    background-image: url(image2.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.section-three{
+    background: #313534;
+    color: #fff;
+    padding: 40px;
+}
+.image-section3{
+    background-image: url(image3.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.image-section4{
+    background-image: url(image1.png);
+    min-height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
